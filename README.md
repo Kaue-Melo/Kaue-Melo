@@ -10,7 +10,7 @@
 <p> Python - SQL - Git - Github - Anaconda </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,git,github,gcp,figma,anaconda" />
+    <img src="https://skillicons.dev/icons?i=py,mysql,git,github,anaconda" />
   </a>
 </p>
-<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/2df7a641-c146-4235-ab07-07e16c54b254" />
+
